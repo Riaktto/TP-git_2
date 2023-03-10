@@ -1,5 +1,7 @@
 #include <stdio.h>
+ void afficher (){
 
+<<<<<<< Updated upstream
 void abdo()
 {
 
@@ -17,8 +19,15 @@ void badr()
 }
 
 
+=======
+	printf("karima");
+	
+}
+>>>>>>> Stashed changes
 main(){
+	afficher();
 	printf("test01");
+<<<<<<< Updated upstream
 	abdo();
 }
 
@@ -39,4 +48,6 @@ void print_name(){printf("Moncef AJmani");}
 main(){
 	printf("test01");
 	print_name();
+=======
+>>>>>>> Stashed changes
 }
