@@ -3,10 +3,15 @@
 void abdo()
 {
 
-    printf("Entrez deux nombres : ");
+    printf("hello world : ");
 
 }
 main(){
 	printf("test01");
 	abdo();
+}
+void print_name(){printf("Moncef AJmani");}
+main(){
+	printf("test01");
+	print_name();
 }
