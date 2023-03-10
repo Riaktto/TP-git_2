@@ -1,11 +1,17 @@
 #include <stdio.h>
-void print_name(){printf("Moncef AJmani");}
-void afficher(){
-printf("ahmed soullami rim asmae");
+
+void abdo()
+{
+
+    printf("hello world : ");
+
 }
 main(){
 	printf("test01");
-	print_name();
-	afficher();
+	abdo();
 }
-
+void print_name(){printf("Moncef AJmani");}
+main(){
+	printf("test01");
+	print_name();
+}
