@@ -6,6 +6,15 @@ void abdo()
     printf("hello world : ");
 
 }
+
+
+void badr()
+{
+
+    printf("hello world : ");
+
+}
+
 main(){
 	printf("test01");
 	abdo();
